@@ -1,0 +1,7 @@
+[ 
+	{ "parent":"66364bf3aa1671d49d77d40f", "slug": "subcat-1", "name": "subcat 1", "description": "subcat 1", "code": "subcat-1", "description": "cadmbn",  "image": "cadmbn" },
+	{ "parent":"66364bf3aa1671d49d77d40f", "slug": "subcat-2", "name": "subcat 2", "description": "subcat 2", "code": "subcat-2", "description": "cadmbn",  "image": "cadmbn" },
+	{ "parent":"66364bf3aa1671d49d77d412", "slug": "subcat-3", "name": "subcat 3", "description": "subcat 3", "code": "subcat-3", "description": "cadmbn",  "image": "cadmbn" },
+	{ "parent":"66364bf3aa1671d49d77d412", "slug": "subcat-4", "name": "subcat 4", "description": "subcat 4", "code": "subcat-4", "description": "cadmbn",  "image": "cadmbn" }
+	
+]
